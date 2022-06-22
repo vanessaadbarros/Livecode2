@@ -56,6 +56,9 @@ header .container img{
 
 }
 
+#checkbox-menu{
+    display: none;
+}
 
 img{
     max-width: 510px;
